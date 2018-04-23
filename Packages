@@ -1,0 +1,31 @@
+Package: com.devntnghia.akumaslayer
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: NTNghia <hiimnghia@icloud.com>
+Section: Xóa Cydia
+Description: AkumaSlayer (Xoá Cydia) cho iOS 10.3.x được làm ra bởi DevNTNghia. Người hiện đang là Admin trong nhóm Thủ Thuật Cydia và Jailbreak, Group Jailbreak (Chia sẻ niềm đam mê).
+Pre-Depends: firmware (>= 10.3), firmware (<= 10.3.3)
+Depends: com.devntnghia.mterminal, coreutils
+Author: NTNghia <hiimnghia@icloud.com>
+Name: AkumaSlayer Cho iOS 10.3.x
+MD5Sum: f1960063f4115784bacd113b60c89c7e
+SHA1: 2381f39dbd9bede5ff76e52040218e0a7d3b85dc
+SHA256: 971fdca6b3ff4be46585d36c34264ff838194aa0f9664a6bbd5b32b71af540f7
+Size: 6804
+Filename: /debs/AkumaSlayer.deb
+
+Package: com.devntnghia.wp113work
+Version: b3
+Architecture: iphoneos-arm
+Maintainer: NTNghia <hiimnghia@icloud.com>
+Section: Wallpaper
+Description: Đang trong thử nghiệm. Tuyệt đối không cài nếu bạn không phải là NTNghia. Mới chỉ hoạt động trên thiết bị 4 Inch và 4.7 Inch.
+Pre-Depends: firmware (>= 10.0.1), firmware (<= 11.1.2)
+Depends: wget, unzip
+Author: NTNghia <hiimnghia@icloud.com>
+Name: Wallpaper iOS 11.3 cho iPhone (Testing)
+MD5Sum: 7ac1b463accd9d40c2cfefc298628700
+SHA1: 068a88948b944b73b9f4707816b8fe9db642f9b8
+SHA256: 75862c2c6e8db8dc08ee84458d75999e57aa0756645a3198133e9bf483cac77f
+Size: 2368
+Filename: /debs/wall.deb
