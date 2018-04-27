@@ -1,11 +1,11 @@
-Origin: DevNTNghia's Beta Repo
+Origin: My Beta Repo
 Label: DevNTNghia
 Suite: stable
 Version: 1.0
 Codename: devntnghia
 Architectures: iphoneos-arm
 Components: main
-Description: Nguồn thuộc quyền sở hữu của DevNTNghia.
+Description: This is a FUCKING BULLSHIT Beta Repo...
 MD5Sum:
- adbcd126e811935e59e74bb216518c78 1394 Packages
- 1f56ccc3ce7eeb4f86f9d556f824d70d 898 Packages.bz2
+ 6236dc5cf62bf8cffbe84232f400d038 1382 Packages
+ a386a43e37fdade6534636a70b10d55f 872 Packages.bz2
