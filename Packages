@@ -5,25 +5,35 @@ Maintainer: NTNghia <hiimnghia@icloud.com>
 Pre-Depends: firmware (>= 10.3), firmware (<= 10.3.3)
 Depends: com.devntnghia.mterminal, coreutils
 Architecture: iphoneos-arm
-Filename: ./akuma.deb
+Filename: ./debs/akuma.deb
 Size: 6804
 MD5sum: f1960063f4115784bacd113b60c89c7e
 Description: AkumaSlayer (Xoá Cydia) cho iOS 10.3.x được làm ra bởi DevNTNghia. Người hiện đang là Admin trong nhóm Thủ Thuật Cydia và Jailbreak, Group Jailbreak (Chia sẻ niềm đam mê).
 Name: AkumaSlayer Cho iOS 10.3.x
 Author: NTNghia <hiimnghia@icloud.com>
 
-Package: com.devntnghia.wallpaper
-Version: 1.0.2
-Section: Wallpaper
+Package: com.devntnghia.akumaslayer
+Version: 1.2
+Section: System
 Maintainer: NTNghia <hiimnghia@icloud.com>
-Pre-Depends: firmware (>= 10.0.1), firmware (<= 11.1.2)
-Depends: wget, unzip
-Conflicts: com.devntnghia.wp113
+Pre-Depends: firmware (>= 10.3), firmware (<= 10.3.3)
+Depends: com.devntnghia.mterminal, coreutils
 Architecture: iphoneos-arm
-Filename: ./wallpaper.deb
-Size: 3834
-MD5sum: 83e0e436221aade4a489ac07876b8d22
-Description: Bộ hình nền của iOS 11.3 cho các đời iOS cũ (10.x-11.1.2). Đã được DevNTNghia fix lại với size của từng dòng máy (4 Inch; 4,7 Inch; 5,5 Inch). Hiện tại mới chỉ hoạt động ở 4 Inch và 4,7 Inch, dòng 5,5 Inch sẽ được cập nhật vào bản 1.1.
-Name: Wallpaper iOS 11.3 for iPhone
+Filename: ./debs/akuma.deb
+Size: 6804
+MD5sum: f1960063f4115784bacd113b60c89c7e
+Description: AkumaSlayer (Xoá Cydia) cho iOS 10.3.x được làm ra bởi DevNTNghia. Người hiện đang là Admin trong nhóm Thủ Thuật Cydia và Jailbreak, Group Jailbreak (Chia sẻ niềm đam mê).
+Name: AkumaSlayer Cho iOS 10.3.x
 Author: NTNghia <hiimnghia@icloud.com>
 
+Package: com.devntnghia.demodeb
+Version: 100000
+Section: Demo
+Maintainer: NTNghia <hiimnghia@icloud.com>
+Architecture: iphoneos-arm
+Filename: ./debs/demo.deb
+Size: 720
+MD5sum: ccd223c49a2eff3b1121a56c650f7ecf
+Description: Just A Demo Deb for Thả Thính :3 .
+Name: A Demo Deb
+Author: NTNghia <hiimnghia@icloud.com>
